@@ -24,3 +24,8 @@ Self-reflection:
 As a point of self-critique and understanding the simplicity of the task at hand, the entire program was completed within the main function.
 
 However, for purpose of both professional standards and efficiency the two solutions that would have been superior/more efficient to the one used, it would have been best to either create 3 separate functions for each process type with the passing of certain vectors as parameters, or even better creating a process class, and creating 3 child classes for; FCFS, RR and SRTF.
+
+Note provided are the:
+Sample .txt file used for the screenshots
+The screenshots of the main file
+And the main.cpp file itself.
